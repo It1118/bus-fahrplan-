@@ -1,0 +1,10 @@
+/* ========================================== */
+/* DATEI: src/index.css */
+/* ========================================== */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+}
